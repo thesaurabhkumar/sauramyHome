@@ -13,6 +13,7 @@ gallery:
     - image_url: posts/photography/hawaii/kalalau-trail/DSC05458.JPG
     - image_url: posts/photography/hawaii/kalalau-trail/DSC05449.JPG
     - image_url: posts/photography/hawaii/kalalau-trail/DSC05469.JPG
+    - image_url: posts/photography/hawaii/kalalau-trail/DSC05479.JPG
 categories:
     - photos
     - usa-photos
