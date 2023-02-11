@@ -1,0 +1,17 @@
+---
+layout: page
+show_meta: false
+title: "Travel Guide"
+subheadline: "Our Travel"
+sidebar: right
+comments: true
+breadcrumb: true
+header:
+   image_fullwidth: "pages/travel-diaries/travel-guide/travel-guide-header.jpg"
+permalink: "/travel-diaries/travel-guide/"
+---
+<ul>
+    {% for post in site.categories.travel-guide %}
+        {% include _page_entries.html %}
+    {% endfor %}
+</ul>

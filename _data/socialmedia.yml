@@ -1,0 +1,25 @@
+# - name: YouTube
+#   url: https://www.youtube.com/user/MrSaurabhKGupta
+#   class: icon-youtube
+#   title: "Saurabh on Youtube"
+
+- name: Twitter
+  url: http://twitter.com/thecwbt
+  class: icon-twitter
+  title: "Follow me on Twitter"
+
+- name: Facebook
+  url: https://www.facebook.com/profile.php?id=100086486400635
+  class: icon-facebook
+  title: "Connect with me on Facebook"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+- name: Instagram
+  url: http://instagram.com/couplewhobreathetravel/
+  class: icon-instagram
+  title: ""
+

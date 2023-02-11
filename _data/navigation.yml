@@ -1,0 +1,63 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Us
+  url: "/about-us/"
+  side: left
+
+- title: "Photography"
+  url: "/photography/"
+  side: left
+  dropdown:
+  - title: "Hawaii"
+    url: "/photography/hawaii/"
+  - title: "United States"
+    url: "/photography/usa/"
+  - title: "Texas"
+    url: "/photography/usa/texas/"
+  - title: "India"
+    url: "/photography/india/"
+  - title: "Nepal"
+    url: "/photography/nepal/"
+
+- title: "Travel Diaries"
+  url: "/travel-diaries/"
+  side: left
+  dropdown:
+  - title: "Travel Guide"
+    url: "/travel-diaries/travel-guide/"
+  - title: "United States"
+    url: "/travel-diaries/usa/"
+  - title: "Texas"
+    url: "/travel-diaries/usa/texas/"
+  - title: "India"
+    url: "/travel-diaries/india/"
+  - title: "Nepal"
+    url: "/travel-diaries/nepal/"
+
+- title: Lifestyle
+  url: "/lifestyle/"
+  side: left
+  dropdown:
+  - title: "Cooking"
+    url: "/lifestyle/cooking/"
+  - title: "Fitness"
+    url: "/lifestyle/fitness/"
+  - title: "Fun Ideas"
+    url: "/lifestyle/fun-ideas/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
