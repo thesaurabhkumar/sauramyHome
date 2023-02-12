@@ -121,7 +121,7 @@ function showSlides() {
 }
 </script>
 
-<div class="slideshow-container">
+<!-- <div class="slideshow-container">
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
     {% for item in page.gallery %}
@@ -133,7 +133,7 @@ function showSlides() {
   <div class="text">Caption Text</div>
 </div>
 </div>
-<br>
+<br> -->
 
 <div>
 	<ul class="clearing-thumbs small-block-grid-2" data-clearing>
