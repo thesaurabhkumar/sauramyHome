@@ -9,9 +9,8 @@ image:
     thumb:  posts/photography/usa/texas/south-padre-island-civil-dusk.jpeg
     homepage: posts/photography/usa/texas/south-padre-island-civil-dusk.jpeg
 categories:
-    - photos
-    - usa-photos
-    - texas-photos
+    - travel-diaries
+    - photography
 tags:
     - travel
     - photography

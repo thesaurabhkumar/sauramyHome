@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "posts/photography/hawaii/kalalau-trail-header.jpg"
+   image_fullwidth: "posts/travel-diaries/hawaii/kalalau-trail-header.jpg"
    title: Aloha!!!
 permalink: "/photography/hawaii/"
 ---

@@ -128,7 +128,7 @@ img { border-radius: $global-radius;}
         height: 220px;
         position: relative;
         overflow: hidden;
-        border-radius: 50%; 
+        border-radius: 20%; 
         border: 1px solid #ddd;
         padding: 4px;
         margin: 10px;
@@ -137,6 +137,7 @@ img { border-radius: $global-radius;}
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
+
 
 figure {
     margin: 0 0 rem-calc(30) 0;

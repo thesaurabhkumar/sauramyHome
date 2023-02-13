@@ -6,16 +6,12 @@
   url: "/about-us/"
   side: left
 
-- title: "Photography"
-  url: "/photography/"
-  side: left
-
 - title: "Travel Diaries"
   url: "/travel-diaries/"
   side: left
-  dropdown:
-  - title: "Travel Guide"
-    url: "/travel-diaries/travel-guide/"
+  # dropdown:
+  # - title: "Travel Guide"
+  #   url: "/travel-diaries/travel-guide/"
 
 - title: Lifestyle
   url: "/lifestyle/"
@@ -27,6 +23,10 @@
     url: "/lifestyle/fitness/"
   - title: "Fun Ideas"
     url: "/lifestyle/fun-ideas/"
+
+- title: "Photography"
+  url: "/photography/"
+  side: left
 
 - title: Blog
   url: "/blog/"
