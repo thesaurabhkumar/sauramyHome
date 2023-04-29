@@ -2,12 +2,12 @@
 layout: page-fullwidth
 show_meta: false
 title: "Welcome"
-subheadline: "Ramya & Saurabh"
-teaser: "couplewhobreathetravel"
+subheadline: "Saurabh & Ramya"
+teaser: "dynosaurabh"
 breadcrumb: true
 header:
    image_fullwidth: "pages/about-us/header.jpg"
-   title: "couplewhobreathetravel"
+   title: "dynosaurabh"
 permalink: "/about-us/"
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -36,7 +36,7 @@ permalink: "/about-us/"
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Introduction <i class="fa fa-user fa-1x"></i>
-We are Ramya and Saurabh. We are an Indian travel couple based in California. <br>
+We are Saurabh & Ramya. We are an Indian travel couple based in California. <br>
 
 Ramya was born in Telangana (South India). Saurabh was born in Varanasi (North India). We are a two state couple. <br>
 

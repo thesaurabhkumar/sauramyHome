@@ -6,7 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 saurabh: # replace this with your info
-  name: "Saurabh & Ramya"
+  name: "Saurabh"
   siterole: "Travellers, Influencers, Dreamers"
   uri: http://www.sauramy.com/
   email: sauramyofficial@gmail.com
