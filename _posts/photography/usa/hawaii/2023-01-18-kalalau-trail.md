@@ -7,13 +7,7 @@ header:
     image_fullwidth: "posts/travel-diaries/hawaii/kalalau-trail/header.JPG"
 image:
     thumb:  posts/travel-diaries/hawaii/kalalau-trail/thumb.JPG
-    homepage: posts/travel-diaries/hawaii/kalalau-trail-header.jpg
-gallery:
-    - image_url: posts/travel-diaries/hawaii/kalalau-trail/DSC05447.JPG
-    - image_url: posts/travel-diaries/hawaii/kalalau-trail/DSC05458.JPG
-    - image_url: posts/travel-diaries/hawaii/kalalau-trail/DSC05449.JPG
-    - image_url: posts/travel-diaries/hawaii/kalalau-trail/DSC05469.JPG
-    - image_url: posts/travel-diaries/hawaii/kalalau-trail/DSC05479.JPG
+    homepage: posts/travel-diaries/hawaii/kalalau-trail/header.JPG
 categories:
     - travel-diaries
     - photography
