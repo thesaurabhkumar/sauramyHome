@@ -6,7 +6,7 @@ teaser: "Inyo, California"
 header:
     image_fullwidth: "posts/travel-diaries/california/mono-lake1/header.JPG"
 image:
-    thumb:  posts/travel-diaries/california/mono-lake1/thumb.JPG
+    thumb:  posts/travel-diaries/california/mono-lake1/thumb.jpg
     homepage: posts/travel-diaries/california/mono-lake1/header.jpg
 categories:
     - travel-diaries
