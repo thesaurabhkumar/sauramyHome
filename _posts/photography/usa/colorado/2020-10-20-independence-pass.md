@@ -6,8 +6,8 @@ teaser: "Colorado"
 header:
     image_fullwidth: "posts/travel-diaries/colorado/independence-pass/header.JPG"
 image:
-    thumb:  posts/travel-diaries/colorado/independence-pass/thumb.jpg
-    homepage: posts/travel-diaries/colorado/independence-pass/header.jpg
+    thumb:  posts/travel-diaries/colorado/independence-pass/thumb.JPG
+    homepage: posts/travel-diaries/colorado/independence-pass/header.JPG
 categories:
     - travel-diaries
     - photography

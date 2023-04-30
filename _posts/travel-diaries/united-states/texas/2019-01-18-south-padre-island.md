@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "My Travels"
-title: "South Padre Island, Texas"
-teaser: "This quick 6 hour getaway from Austin is perfect for an extended weekend trip. We have been to South Padre Islands twice, once for valentines day and the other for my fiancee's birthday celebration"
+title: "South Padre Island"
+teaser: "Texas"
 header:
     image_fullwidth: "posts/travel-diaries/texas/south-padre/header.jpg"
 image:
