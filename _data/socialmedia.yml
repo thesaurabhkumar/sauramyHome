@@ -1,7 +1,7 @@
 # - name: YouTube
-#   url: https://www.youtube.com/user/MrSaurabhKGupta
+#   url: 
 #   class: icon-youtube
-#   title: "Saurabh on Youtube"
+#   title: "S on Youtube"
 
 - name: Twitter
   url: http://twitter.com/thecwbt
@@ -19,7 +19,7 @@
 #   title: ""
 
 - name: Instagram
-  url: http://instagram.com/dynosaurabh/
+  url: http://instagram.com/
   class: icon-instagram
   title: ""
 

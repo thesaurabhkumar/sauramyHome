@@ -14,7 +14,7 @@ Twitter: {{ author.twitter }}{% endif %}
 
 /* THANKS */
 
-Name: Saurabh
+Name: SK
 Role: Blog Creator
 Site: http://www.sauramy.com/
 Twitter: @thecwbt

@@ -1,6 +1,6 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 
-title: 'Saurabh & Ramya'
+title: 'S & R'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Travel Bloggers | Couple'
@@ -12,7 +12,7 @@ description: 'This is our travel blog. We share articles related to my professio
 credits: ''
 
 # Main author of the website
-author: Saurabh
+author: nobody
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -97,7 +97,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Saurabh     # Default author for pages
+      author: S     # Default author for pages
   -
     scope:
       path: ''
@@ -106,7 +106,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Saurabh    # Default author for posts
+      author: S    # Default author for posts
 
 
 

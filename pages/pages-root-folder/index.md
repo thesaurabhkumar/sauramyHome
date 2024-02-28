@@ -7,7 +7,7 @@
 layout: frontpage-fullscreen
 header:
   image_fullwidth: pages/home/background.jpg
-  title: Saurabh & Ramya
+  title: S & R
   
 
 
